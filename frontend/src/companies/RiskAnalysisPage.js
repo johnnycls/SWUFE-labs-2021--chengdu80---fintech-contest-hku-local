@@ -206,7 +206,7 @@ const RiskAnalysisPage = () => {
               {Object.keys(risk).length !== 0 ? (
                 <HorizontalBarChart
                   title="Explainable AI"
-                  labels={[Object.keys(risk.lime)]}
+                  labels={Object.keys(risk.lime)}
                   label={["Value"]}
                   data={[Object.values(risk.lime)]}
                 />

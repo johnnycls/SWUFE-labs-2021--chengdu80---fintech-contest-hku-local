@@ -4,7 +4,7 @@ from flask import Flask
 from flask_cors import CORS
 
 import sys
-sys.path.append('/home/ubuntu/2021--chengdu80---fintech-contest-hku/backend/flaskr')
+sys.path.append('/home/johnny/Documents/SWUFE-labs-2021--chengdu80---fintech-contest-hku-local/backend/flaskr')
 
 def create_app(test_config=None):
     """Create and configure an instance of the Flask application."""
