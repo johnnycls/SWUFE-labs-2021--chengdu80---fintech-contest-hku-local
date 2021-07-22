@@ -29,3 +29,6 @@
 
 ## Documentation
 Refer to [here](https://fintechendeavour.gitbook.io/aspect/) for more details!
+- Installation Guide
+- Introduction of Aspect
+- Introduction of ML methods used
